@@ -19,3 +19,10 @@ To use Power BI to clean, model, analyze and visualize the data to support decis
 - Slicers for County, Diagnosis, Date
 
 ## Insights
+- The elderly are prone to diseases hence the high drug consumption as compared to the other age categories.
+- Malaria drug generated high revenue as compared to the other drugs.
+- In the month of March, the hospital and the pharmacy experienced high count of Diagnosis.
+- Generally, high visits at the hospital and at the pharmacy led to high revenue for the hospital.
+- From the analysis, we can tell that the higher the length of stay at the hospital, the higher the cost and the higher the revenue for the hospital.
+
+## Dashboard
