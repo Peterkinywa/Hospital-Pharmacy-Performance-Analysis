@@ -27,3 +27,12 @@ To use Power BI to clean, model, analyze and visualize the data to support decis
 
 ## Dashboard
 <img width="1292" height="731" alt="image" src="https://github.com/user-attachments/assets/f26d9e2c-264d-40a4-9ab0-183ec4cb15cc" />
+
+## Author
+Peter Kinywa Mutua, Data Analyst
+
+## License
+
+This repository and its contents are intended for **internal analysis, learning and reference purposes only**, unless otherwise explicitly stated.
+
+![License](https://img.shields.io/badge/License-Internal-orange)
