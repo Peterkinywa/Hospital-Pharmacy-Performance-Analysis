@@ -26,7 +26,7 @@ To use Power BI to clean, model, analyze and visualize the data to support decis
 - From the analysis, we can tell that the higher the length of stay at the hospital, the higher the cost and the higher the revenue for the hospital.
 
 ## Power BI Report & Dashboard
-<img width="1292" height="731" alt="image" src="https://github.com/user-attachments/assets/f26d9e2c-264d-40a4-9ab0-183ec4cb15cc" />
+<img width="1352" height="759" alt="image" src="https://github.com/user-attachments/assets/93707e4d-175d-40c0-b357-ce6a71ac2e96" />
 
 ## Author
 Peter Kinywa Mutua, Data Analyst
